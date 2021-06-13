@@ -829,8 +829,6 @@ _________________________________
      - Some security programs may block this script, this is false-positive, as long as you 
        downloaded the file from original post, temporary suspend Antivirus realtime protection, 
        or exclude the downloaded file/extracted folder from scanning.
-
-
 ____________________________________________________________________________________________________
 :txt:
 
